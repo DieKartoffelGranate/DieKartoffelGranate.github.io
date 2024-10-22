@@ -8,6 +8,8 @@ header.title {
     background-color: #007399;
     justify-content: center;
     align-items: center;
+    position: sticky;
+    top: 0px;
     height: auto;
     width: 100%;
     text-align: center;
