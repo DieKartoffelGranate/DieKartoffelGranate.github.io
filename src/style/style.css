@@ -12,7 +12,7 @@ header.title {
     width: 100%;
     text-align: center;
     margin-bottom: 5%;
-    box-shadow: 0px 15px 15px #007399;
+    box-shadow: 0px 0px 15px 15px #007399;
 }
 
 main.subtitle {
@@ -26,12 +26,25 @@ main.subtitle {
 
 main.link {
     font-family: 'Courier', sans-serif;
+    font-weight: bolder;
     justify-content: center;
     align-items: center;
     height: auto;
     text-align: center;
     margin-top: 1%;
     margin-bottom: 1%;
+}
+
+main.media {
+    font-family: 'Courier', sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    background-color: #007399;
+    box-shadow: 0px 0px 15px 15px #007399;
 }
 
 main.body {
